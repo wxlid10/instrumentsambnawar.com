@@ -1,0 +1,44 @@
+.instrumento {
+    display: inline-block;
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid #000;
+    border-radius: 10px;
+    font-size: 18px;
+    font-weight: bold;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+.instrumento:hover {
+    background-color: #f0f0f0;
+}
+
+h1 {
+    font-family: "Comic Sans MS", cursive, sans-serif; 
+    color: #FF69B4; 
+    text-align: center; 
+    text-shadow: 2px 2px 4px rgba(20, 150, 211, 0.5); 
+    background-color: #cedadf; 
+            padding: 10px; 
+            text-align: center; 
+}
+
+body, html {
+    height: 100%;
+    margin: 0;
+}
+.container {
+    width: 80%; 
+    margin: auto; 
+    text-align: center; 
+    background-color: #f0f0f0; /
+    padding: 20px; 
+    box-sizing: border-box; 
+}
+
+body {
+    background-color: navajowhite;
+}
+
+
